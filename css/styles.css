@@ -1,15 +1,17 @@
 h1{
   color: salmon;
   text-align: center;
+  font-size: 30px;
+  font-style: oblique;
 }
 
 body{
   background-image: url("bear.jpg");
-  background-color: skyblue;
+  background-color: #8b9958;
 }
 
 ul{
-    background-color: #6699ff;
+    background-color: #3aaf8a;
     text-decoration: underline;
     color :white;
 }
