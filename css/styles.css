@@ -1,0 +1,21 @@
+h1{
+  color: salmon;
+  text-align: center;
+}
+
+body{
+  background-image: url("bear.jpg");
+  background-color: skyblue;
+}
+
+ul{
+    background-color: #6699ff;
+    text-decoration: underline;
+    color :white;
+}
+ p{
+   font-size: 20px;
+ }
+img{
+  text-align: center;
+}
